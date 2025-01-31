@@ -56,13 +56,13 @@ Generate visualizations, including a sentiment distribution chart, word cloud, a
 The script produces:
 
 -- Sentiment Distribution
-![Ouput]()
+![Ouput](https://github.com/piscongentine/PRODIGY_DS_04/blob/main/Out3.png)
 
 -- Word Cloud for Positive Tweets
-![Ouput]()
+![Ouput](https://github.com/piscongentine/PRODIGY_DS_04/blob/main/Out2.png)
 
 --Sentiment Score Distribution
-![Ouput]()
+![Ouput](https://github.com/piscongentine/PRODIGY_DS_04/blob/main/Out1.png)
 
 ### Notes
 
