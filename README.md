@@ -55,11 +55,14 @@ Generate visualizations, including a sentiment distribution chart, word cloud, a
 
 The script produces:
 
-Sentiment Distribution
+-- Sentiment Distribution
+![Ouput]()
 
-Word Cloud for Positive Tweets
+-- Word Cloud for Positive Tweets
+![Ouput]()
 
-Sentiment Score Distribution
+--Sentiment Score Distribution
+![Ouput]()
 
 ### Notes
 
